@@ -26,3 +26,10 @@ It helps reduce transportation costs, improve supply chain reliability, and supp
 ---
 
 ## 📂 Project Structure  
+supply/
+├── app.py # Main Streamlit app
+├── cleased_data.csv # Preprocessed dataset
+├── data/ # Raw and cleaned data files
+├── models/ # Saved ML models & encoders
+├── requirements.txt # Python dependencies
+└── Code.ipynb # Jupyter Notebook (EDA & model building)
